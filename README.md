@@ -15,3 +15,5 @@ Pandas. The objective of this assignment is to gain some hands-on experience wit
 
 ### Course Project 
 Using the concepts I learned from the previous lessons, I performed an analysis of player stats in the 2018/2019 English Premier League session. Information about the datasets, visualization and insights can be found in the [project notebook](https://github.com/Oyebamiji-Micheal/Data-Analysis-with-Python-Zero-to-Pandas/blob/master/Analysis%20of%20Players%20Stats%20in%20the%20English%20Premier%20League%20(2018-2019).ipynb)
+
+<img src=https://github.com/Oyebamiji-Micheal/Data-Analysis-with-Python-Zero-to-Pandas/blob/master/image/Certificate%20of%20Completion.png height='500' width='700'>
